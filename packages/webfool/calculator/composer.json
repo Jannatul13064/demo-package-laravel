@@ -1,0 +1,11 @@
+{
+    "name": "webfool/calculator",
+    "description": "This is a calculator package that can add and substract",
+    "authors": [
+        {
+            "name": "Jannatul13064",
+            "email": "akzzislam19194@gmail.com"
+        }
+    ],
+    "require": {}
+}
